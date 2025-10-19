@@ -34,7 +34,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd frontend
+cd crux_analyzer_fe
 ```
 
 ### 2. Install Dependencies
